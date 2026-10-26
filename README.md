@@ -2,7 +2,7 @@
 
 A lightweight wearable and AI companion that keeps your eyes at a safe distance and your neck in line.
 
-> Hackathon 2026 · Team [Team name] · [Member names]
+> Hackathon 2026 · Team 好累對不隊 · 吳宥勳
 > Status: hackathon prototype. PostureGuard is a wellness aid, not a medical device.
 
 ## Why
