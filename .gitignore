@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Flutter / Dart
+.dart_tool/
+build/
+.flutter-plugins*
+.packages
+
+# Firmware (Zephyr / nRF Connect)
+firmware/build/
+*.hex
+*.elf
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Never commit recordings or captured frames
+*.mp4
+*.mov
+captures/
